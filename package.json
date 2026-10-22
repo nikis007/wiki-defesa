@@ -1,0 +1,22 @@
+{
+  "name": "wiki-defesa",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "clear": "docusaurus clear",
+    "serve": "docusaurus serve"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^3.6.0",
+    "@docusaurus/preset-classic": "^3.6.0",
+    "clsx": "^1.2.1",
+    "prism-react-renderer": "^2.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@docusaurus/module-type-aliases": "^3.6.0"
+  }
+}
